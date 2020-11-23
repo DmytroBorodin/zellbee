@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/zellbee/static/css/main.c9f9fbe5.chunk.css",
-    "main.js": "/zellbee/static/js/main.6ac00b43.chunk.js",
-    "main.js.map": "/zellbee/static/js/main.6ac00b43.chunk.js.map",
-    "runtime-main.js": "/zellbee/static/js/runtime-main.a3f6e9b7.js",
-    "runtime-main.js.map": "/zellbee/static/js/runtime-main.a3f6e9b7.js.map",
-    "static/js/2.25aca010.chunk.js": "/zellbee/static/js/2.25aca010.chunk.js",
-    "static/js/2.25aca010.chunk.js.map": "/zellbee/static/js/2.25aca010.chunk.js.map",
-    "static/js/3.9566a991.chunk.js": "/zellbee/static/js/3.9566a991.chunk.js",
-    "static/js/3.9566a991.chunk.js.map": "/zellbee/static/js/3.9566a991.chunk.js.map",
+    "main.css": "/zellbee/static/css/main.deba8dde.chunk.css",
+    "main.js": "/zellbee/static/js/main.b9088bcd.chunk.js",
+    "main.js.map": "/zellbee/static/js/main.b9088bcd.chunk.js.map",
+    "runtime-main.js": "/zellbee/static/js/runtime-main.e21b7226.js",
+    "runtime-main.js.map": "/zellbee/static/js/runtime-main.e21b7226.js.map",
+    "static/css/2.5011beaf.chunk.css": "/zellbee/static/css/2.5011beaf.chunk.css",
+    "static/js/2.0060ae05.chunk.js": "/zellbee/static/js/2.0060ae05.chunk.js",
+    "static/js/2.0060ae05.chunk.js.map": "/zellbee/static/js/2.0060ae05.chunk.js.map",
+    "static/js/3.649aacac.chunk.js": "/zellbee/static/js/3.649aacac.chunk.js",
+    "static/js/3.649aacac.chunk.js.map": "/zellbee/static/js/3.649aacac.chunk.js.map",
     "index.html": "/zellbee/index.html",
-    "static/css/main.c9f9fbe5.chunk.css.map": "/zellbee/static/css/main.c9f9fbe5.chunk.css.map",
-    "static/js/2.25aca010.chunk.js.LICENSE.txt": "/zellbee/static/js/2.25aca010.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/zellbee/static/media/icomoon.885ada50.woff",
+    "static/css/2.5011beaf.chunk.css.map": "/zellbee/static/css/2.5011beaf.chunk.css.map",
+    "static/css/main.deba8dde.chunk.css.map": "/zellbee/static/css/main.deba8dde.chunk.css.map",
+    "static/js/2.0060ae05.chunk.js.LICENSE.txt": "/zellbee/static/js/2.0060ae05.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zellbee/static/media/slick.c94f7671.ttf",
     "static/media/arrow_dig.e938743e.svg": "/zellbee/static/media/arrow_dig.e938743e.svg",
     "static/media/bitcoin.8c0faa68.svg": "/zellbee/static/media/bitcoin.8c0faa68.svg",
     "static/media/cancel.ef9a9fd9.svg": "/zellbee/static/media/cancel.ef9a9fd9.svg",
@@ -78,9 +80,10 @@
     "static/media/zellbee.df1c8e8a.svg": "/zellbee/static/media/zellbee.df1c8e8a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3f6e9b7.js",
-    "static/js/2.25aca010.chunk.js",
-    "static/css/main.c9f9fbe5.chunk.css",
-    "static/js/main.6ac00b43.chunk.js"
+    "static/js/runtime-main.e21b7226.js",
+    "static/css/2.5011beaf.chunk.css",
+    "static/js/2.0060ae05.chunk.js",
+    "static/css/main.deba8dde.chunk.css",
+    "static/js/main.b9088bcd.chunk.js"
   ]
 }
